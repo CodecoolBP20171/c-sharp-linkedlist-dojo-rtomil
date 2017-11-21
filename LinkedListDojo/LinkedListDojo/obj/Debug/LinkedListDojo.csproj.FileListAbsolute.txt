@@ -1,0 +1,7 @@
+C:\c#\Algorithms and data structures\c-sharp-linkedlist-dojo-rtomil\LinkedListDojo\LinkedListDojo\bin\Debug\LinkedListDojo.exe.config
+C:\c#\Algorithms and data structures\c-sharp-linkedlist-dojo-rtomil\LinkedListDojo\LinkedListDojo\bin\Debug\LinkedListDojo.exe
+C:\c#\Algorithms and data structures\c-sharp-linkedlist-dojo-rtomil\LinkedListDojo\LinkedListDojo\bin\Debug\LinkedListDojo.pdb
+C:\c#\Algorithms and data structures\c-sharp-linkedlist-dojo-rtomil\LinkedListDojo\LinkedListDojo\obj\Debug\LinkedListDojo.csprojResolveAssemblyReference.cache
+C:\c#\Algorithms and data structures\c-sharp-linkedlist-dojo-rtomil\LinkedListDojo\LinkedListDojo\obj\Debug\LinkedListDojo.csproj.CoreCompileInputs.cache
+C:\c#\Algorithms and data structures\c-sharp-linkedlist-dojo-rtomil\LinkedListDojo\LinkedListDojo\obj\Debug\LinkedListDojo.exe
+C:\c#\Algorithms and data structures\c-sharp-linkedlist-dojo-rtomil\LinkedListDojo\LinkedListDojo\obj\Debug\LinkedListDojo.pdb
